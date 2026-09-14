@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "L’INTERNATIONALE DES ENFANTS",
+    "description": "The title in the navbar"
+  },
+  "item.label.Our purpose": {
+    "message": "Notre mission",
+    "description": "Navbar item with label Our purpose"
+  },
+  "item.label.Our priorities": {
+    "message": "Nos priorités",
+    "description": "Navbar item with label Our priorities"
+  },
+  "item.label.Get involved ↗": {
+    "message": "Participer ↗",
+    "description": "Navbar item with label Get involved ↗"
+  }
+}

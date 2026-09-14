@@ -1,0 +1,30 @@
+{
+  "link.title.Explore": {
+    "message": "Découvrir",
+    "description": "The title of the footer links column with title=Explore in the footer"
+  },
+  "link.title.Take part": {
+    "message": "Participer",
+    "description": "The title of the footer links column with title=Take part in the footer"
+  },
+  "link.item.label.Our purpose": {
+    "message": "Notre mission",
+    "description": "The label of footer link with label=Our purpose linking to /about/our-purpose"
+  },
+  "link.item.label.Our priorities": {
+    "message": "Nos priorités",
+    "description": "The label of footer link with label=Our priorities linking to /about/our-priorities"
+  },
+  "link.item.label.Community": {
+    "message": "Communauté",
+    "description": "The label of footer link with label=Community linking to /community"
+  },
+  "link.item.label.Community principles": {
+    "message": "Principes communautaires",
+    "description": "The label of footer link with label=Community principles linking to /about/community-principles"
+  },
+  "copyright": {
+    "message": "L’Internationale des enfants · Nos vies. Nos voix. Notre monde.",
+    "description": "The footer copyright"
+  }
+}
