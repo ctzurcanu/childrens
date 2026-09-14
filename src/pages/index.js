@@ -43,6 +43,22 @@ export default function Home() {
         <div className="hero-visual"><WorldArt/><span className="art-caption">{translate({id: "site.a.little.imagination.a.world.of.possibility", message: "A little imagination. A world of possibility."})}</span></div>
       </section>
       <div className="belief-strip"><span>{translate({id: "site.every.child", message: "EVERY CHILD."})}</span><span aria-hidden="true">✳</span><span>{translate({id: "site.every.voice", message: "EVERY VOICE."})}</span><span aria-hidden="true">✳</span><span>{translate({id: "site.everywhere", message: "EVERYWHERE."})}</span><span aria-hidden="true">✳</span></div>
+      <section className="featured-video page-width" aria-labelledby="featured-video-title">
+        <h2 id="featured-video-title">{translate({id: 'site.video.heading', message: 'Watch the video'})}</h2>
+        <div className="video-player">
+          <iframe
+            src="https://www.youtube-nocookie.com/embed/oOqb7QTSU-w"
+            title={translate({id: 'site.video.title', message: 'Featured YouTube video'})}
+            loading="lazy"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerPolicy="strict-origin-when-cross-origin"
+            allowFullScreen
+          />
+        </div>
+        <a className="text-link" href="https://youtu.be/oOqb7QTSU-w" target="_blank" rel="noopener noreferrer">
+          {translate({id: 'site.video.youtube', message: 'Watch on YouTube ↗'})}
+        </a>
+      </section>
       <section className="priorities page-width"><div className="section-heading"><div><span className="eyebrow">{translate({id: "site.what.we.stand.for.heading", message: "WHAT WE STAND FOR"})}</span><h2>{translate({id: "site.childhood.is.not.a.waiting.room", message: "Childhood is not a waiting room."})}</h2></div><p>{translate({id: "site.children.are.part.of.our.world.today", message: "Children are part of our world today."})}<br/>{translate({id: "site.their.rights.should.be.too", message: "Their rights should be, too."})}</p></div>
         <div className="priority-grid">{priorities.map(([number,title,copy,kind]) => <Link key={number} className={`priority-card ${kind}`} to="/about/our-priorities"><div className="card-top"><span>{number} /</span><span aria-hidden="true">↗</span></div><h3>{title}</h3><p>{copy}</p></Link>)}</div>
       </section>
