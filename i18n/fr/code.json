@@ -469,5 +469,26 @@
   },
   "site.video.title": {
     "message": "Vidéo YouTube à découvrir"
+  },
+  "site.explore.our.ideas": {
+    "message": "Découvrir nos idées"
+  },
+  "site.ideas.for.children.s.rights": {
+    "message": "Des idées pour les droits des enfants"
+  },
+  "site.share.your.ideas.in.our.discussion.space": {
+    "message": "Partagez vos idées dans notre espace de discussion."
+  },
+  "site.discussions.pending.explore.ideas": {
+    "message": "Notre espace de discussion public est en préparation. En attendant, découvrez nos idées pour les droits des enfants."
+  },
+  "site.browse.all.ideas": {
+    "message": "Voir toutes les idées →"
+  },
+  "site.our.ideas": {
+    "message": "nos idées"
+  },
+  "site.ideas": {
+    "message": "idées"
   }
 }

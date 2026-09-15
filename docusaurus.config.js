@@ -35,16 +35,16 @@ const config = {
       logo: { alt: '', src: 'img/logo.svg' },
       items: [
         { type: 'localeDropdown', position: 'right' },
-        { to: '/about/our-purpose', label: 'Our purpose', position: 'right' },
-        { to: '/about/our-priorities', label: 'Our priorities', position: 'right' },
-        { to: '/community', label: 'Get involved ↗', position: 'right', className: 'nav-join' },
+        // { to: '/about/our-purpose', label: 'Our purpose', position: 'right' },
+        // { to: '/about/our-priorities', label: 'Our priorities', position: 'right' },
+        // { to: '/community', label: 'Get involved ↗', position: 'right', className: 'nav-join' },
       ],
     },
     footer: {
       style: 'light',
       links: [
-        { title: 'Explore', items: [{ label: 'Our purpose', to: '/about/our-purpose' }, { label: 'Our priorities', to: '/about/our-priorities' }] },
-        { title: 'Take part', items: [{ label: 'Community', to: '/community' }, { label: 'Community principles', to: '/about/community-principles' }] },
+        // { title: 'Explore', items: [{ label: 'Our purpose', to: '/about/our-purpose' }, { label: 'Our priorities', to: '/about/our-priorities' }] },
+        // { title: 'Take part', items: [{ label: 'Community', to: '/community' }, { label: 'Community principles', to: '/about/community-principles' }] },
       ],
       copyright: 'The Children’s International · Our lives. Our voices. Our world.',
     },
