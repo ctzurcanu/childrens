@@ -13,7 +13,7 @@ We should always start with our duties first, before asking for justice or right
 1. Clear and Provable communication
 2. Adopting an Ethos that is compatible with Children's International meta-ethos
 3. Defending those that seem defenseless
-4. Political Xenia
+4. [Political Xenia](./xenia.md) — Bring the interests of those who cannot or do not wish to speak for themselves into our decisions.
 
 
 ## Children’s Rights
