@@ -1,6 +1,6 @@
 ---
-title: Children's International
-description: Children's International
+title: The Children's International
+description: The Children's International
 sidebar_position: 5
 ---
 
@@ -10,7 +10,7 @@ sidebar_position: 5
 
 It could be:
 
-- a political party
+- an international political party
 - a meta-organization
 - a place for friendship
 - a way to help other children
