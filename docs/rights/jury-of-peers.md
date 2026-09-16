@@ -1,5 +1,6 @@
 ---
-title: A fair jury that includes children
+title: A jury of peers
+Description: A fair jury that includes children
 sidebar_position: 150
 ---
 
@@ -34,4 +35,5 @@ The school could not avoid this rule by saying, “We are an organization, not a
 - How many votes would be needed for a decision?
 - How would deadlocks, reviews, and new hearings work?
 
-[Back to all ideas](./index.md)
+
+[Back](/index.md)

@@ -1,6 +1,7 @@
 ---
-title: Voting and becoming an elected leader
-sidebar_position: 190
+title: Voting and being elected
+Description: Voting and becoming an elected leader
+sidebar_position: 115
 ---
 
 # Voting and becoming an elected leader
@@ -37,4 +38,5 @@ If they qualify and voters elect them, they would do the actual job. An adult co
 - What would count as passing, and when would the check happen?
 - How could someone appeal a decision in time to enter the election?
 
-[Back to all ideas](./index.md)
+
+[Back](/index.md)

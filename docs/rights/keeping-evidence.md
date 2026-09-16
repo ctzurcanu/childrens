@@ -1,5 +1,6 @@
 ---
-title: Keeping evidence and asking for help
+title: Keeping evidence
+Description: Keeping evidence and asking for help
 sidebar_position: 120
 ---
 
@@ -39,4 +40,5 @@ A child receives a threatening message. Under this proposal, they could save it 
 
 Keeping your own experiences or received messages is different from entering someone else’s account without permission. Keeping material privately and publishing it for everyone to see would also need separate rules.
 
-[Back to all ideas](./index.md)
+
+[Back](/index.md)

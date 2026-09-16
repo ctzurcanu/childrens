@@ -1,9 +1,10 @@
 ---
-title: An online community for children
+title: Community for children
+Description: An online and offline community for children
 sidebar_position: 130
 ---
 
-# An online community for children
+# An online and offline community for children
 
 **The idea: children should have online spaces where they can make friends, talk, organize, and choose their own community rules.**
 
@@ -42,4 +43,6 @@ Children start a book club. They choose their discussion rules and moderators. I
 - Exactly when could emergency access happen, and who would check it?
 - What happens to someone’s information and friendships when they become too old for a space?
 
-[Back to all ideas](./index.md)
+
+[Back](/index.md)
+

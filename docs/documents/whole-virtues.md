@@ -1,6 +1,7 @@
 ---
-unlisted: true
 slug: /whole-virtues
+title: On Virtues (Complete)
+sidebar_position: 50
 ---
 
 # On Virtues (Complete)

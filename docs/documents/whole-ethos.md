@@ -1,6 +1,7 @@
 ---
-unlisted: true
+title: On Ethos (Complete)
 slug: /whole-ethos
+sidebar_position: 90
 ---
 
 # On Ethos (Complete)

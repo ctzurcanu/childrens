@@ -1,5 +1,6 @@
 ---
-title: Making agreements in your own name
+title: Sign contracts
+Description: Making agreements in your own name
 sidebar_position: 170
 ---
 
@@ -42,4 +43,5 @@ Buying a notebook is different from taking on years of debt or promising to pay 
 - When could an agreement be cancelled or ended?
 - What extra protections should apply to major money commitments or agreements affecting basic rights?
 
-[Back to all ideas](./index.md)
+
+[Back](/index.md)

@@ -36,4 +36,6 @@ A proposed service would help children obtain documents and urgently challenge r
 - How would children access accommodation and emergency support?
 - How would this work with border rules, travel documents, and rules about who is legally responsible for a child’s care?
 
-[Back to all ideas](./index.md)
+
+[Back](/index.md)
+

@@ -1,11 +1,10 @@
 ---
-title: CI Legacy
-description: The legacy of Children's International
+title: Christian Legacy
+description: The Christian Legacy of Children's International
+sidebar_position: 10
 ---
 
-# Legacy
-
-## Christian
+## Christian Legacy
 
 ### "Let the children come to me"
 
@@ -34,3 +33,26 @@ Location: [Perea](https://en.wikipedia.org/wiki/Perea), east of the Jordan River
 
 - children should be free to choose
 - no obstacle should exist if they want to adopt an ethos
+
+
+## Children Christian Martyrs
+
+St. Agnes of Rome (c. 291–304) - Died at age 12-13. One of the most celebrated virgin martyrs. She refused a suitor's marriage proposal, declaring she would have no spouse but Christ. She was ordered to be stripped and dragged to a brothel, but according to legend, her hair miraculously grew to cover her. After surviving attempts to burn her, she was finally beheaded.
+
+St. Eulalia of Mérida (c. 291–304) - Died at age 12-14. A virgin martyr who refused to sacrifice to pagan gods.
+
+St. Pancras of Rome (c. 289–303/304) - Died at age 14. Martyred during Diocletian's persecution.
+
+St. Cyricus of Antioch (c. 301–304) - Died at age 3. Son of St. Julitta, martyred with his mother.
+
+St. Agapitus of Palestrina (c. 251/258–267/274) - Died at age 16. Martyr.
+
+St. Dymphna (7th century) - Died at age 15. An Irish virgin martyr who was beheaded by her own pagan father for refusing to marry him after he went mad with grief over her mother's death.
+
+St. Maria Goretti (1890–1902) - Died at age 11. One of the youngest canonized saints. She was stabbed to death by a 20-year-old farmhand who tried to rape her. She forgave her attacker before dying. Her canonization in 1950 attracted at least 250,000 people.
+
+St. Kizito (c. 1872–1886) - Died at age 14. The youngest of the 45 Uganda Martyrs executed under King Mwanga. He was baptized secretly along with other unbaptized pages and burned alive on June 3, 1886. He is venerated as patron saint of children under age 15.
+
+A more [complete list](https://en.wikipedia.org/wiki/List_of_child_saints).
+
+[Back](/index.md)

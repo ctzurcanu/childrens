@@ -1,5 +1,6 @@
 ---
-title: Privacy, a safe box, and a safe space
+title: Privacy
+Description: Privacy, a safe box, and a safe space
 sidebar_position: 180
 ---
 
@@ -38,4 +39,5 @@ A child shares a bedroom. Under this proposal, they would still have a lockable 
 - How could someone recover access after losing a key or password without giving adults automatic access?
 - Exactly which emergencies would justify an intrusion, and who would review it?
 
-[Back to all ideas](./index.md)
+
+[Back](/index.md)

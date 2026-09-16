@@ -18,7 +18,7 @@ This document develops a proposed duty for the Children’s International. It is
 
 ## What does the name mean?
 
-The [virtues collection](./documents/whole-virtues.md) describes **xenia** as hospitality: welcoming and treating those who are far from home with care and respect.
+The [virtues collection](/documents/whole-virtues.md) describes **xenia** as hospitality: welcoming and treating those who are far from home with care and respect.
 
 Political Xenia extends that idea to decision-making. We make room for interests that are foreign to our group, missing from our meeting, or unable to speak in our language. This is our proposed use of the term, rather than a claim that the ancient idea already contained this whole political system.
 
@@ -147,4 +147,4 @@ Political Xenia does not promise a choice that pleases everyone. It requires tha
 
 > When I help make a decision, I will ask who is missing. I will listen where I can, learn what I can, and explain what I do not know. I will bring their interests into the discussion without pretending to own their voice. I will accept correction and help check the consequences.
 
-[Back to our duties and rights](./index.md)
+[Back](/index.md)

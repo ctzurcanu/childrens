@@ -1,9 +1,10 @@
 ---
-title: Understanding an election before voting
+title: Understanding the Voting
+Description: Understanding the intent before voting
 sidebar_position: 110
 ---
 
-# Understanding an election before voting
+# Understanding before voting
 
 **The idea: children could vote after showing that they understand the choices in an election.**
 
@@ -39,4 +40,5 @@ A record would show the questions asked and how the answers were scored. A revie
 
 Children who want to become elected leaders would take a separate check about the job. Read [Voting and becoming an elected leader](./voting-and-being-elected.md).
 
-[Back to all ideas](./index.md)
+
+[Back](/index.md)

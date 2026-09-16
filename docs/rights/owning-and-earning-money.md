@@ -1,9 +1,10 @@
 ---
-title: Your money belongs to you
+title: Right to property
+Description: Your property belongs to you
 sidebar_position: 140
 ---
 
-# Your money belongs to you
+# Your property belongs to you
 
 **The idea: children should be able to own money, earn income, and control their own bank account at any age.**
 
@@ -37,4 +38,5 @@ The right to earn would not allow forced or dangerous work. Paying a child would
 
 How could banking work for someone who cannot yet use an account themselves? The solution must address that person’s needs without giving adults automatic control over children’s accounts in general.
 
-[Back to all ideas](./index.md)
+
+[Back](/index.md)

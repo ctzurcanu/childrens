@@ -38,6 +38,8 @@ You should be able to revise your ethos after learning something or hearing a go
 
 ## Where this idea comes from
 
-The longer [On Ethos](./documents/whole-ethos.md) and [On Virtues](./documents/whole-virtues.md) documents explain the framework. This proposal applies that framework to children; it does not claim those documents already state this right.
+The longer [On Ethos](/documents/whole-ethos.md) and [On Virtues](/documents/whole-virtues.md) documents explain the framework. This proposal applies that framework to children; it does not claim those documents already state this right.
 
-[Back to all ideas](./index.md)
+
+[Back](/index.md)
+
