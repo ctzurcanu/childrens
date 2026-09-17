@@ -6,7 +6,7 @@ sidebar_position: 10
 
 ## Christian Legacy
 
-### "Let the children come to me"
+### Jesus said: "Let the children come to me"
 
 | Crucifixion chronology    | “Let the children come to me”               |
 | ------------------------- | ------------------------------------------- |
