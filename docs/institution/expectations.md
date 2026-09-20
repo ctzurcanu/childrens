@@ -1,7 +1,7 @@
 ---
 title: Expectations of Trust
 description: Institutional Expectations
-sidebar_position: 10
+sidebar_position: 50
 ---
 
 # Expectations of Trust
