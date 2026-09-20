@@ -26,5 +26,17 @@
   "copyright": {
     "message": "L’Internationale des enfants · Nos vies. Nos voix. Notre monde.",
     "description": "The footer copyright"
+  },
+  "link.item.label.Our ideas": {
+    "message": "Nos idées"
+  },
+  "link.item.label.Children’s rights": {
+    "message": "Droits des enfants"
+  },
+  "link.item.label.Duties": {
+    "message": "Devoirs"
+  },
+  "link.item.label.Our institution": {
+    "message": "Notre institution"
   }
 }

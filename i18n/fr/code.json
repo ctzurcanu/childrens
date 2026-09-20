@@ -490,5 +490,20 @@
   },
   "site.ideas": {
     "message": "idées"
+  },
+  "site.seo.home.title": {
+    "message": "Droits et voix des enfants"
+  },
+  "site.seo.home.description": {
+    "message": "Découvrez l’Internationale des enfants et ses idées pour les droits des enfants, leur participation politique, leur vie privée et un monde à leur écoute."
+  },
+  "site.seo.community.title": {
+    "message": "Participer aux droits des enfants"
+  },
+  "site.seo.community.description": {
+    "message": "Découvrez comment participer à l’Internationale des enfants, explorer les droits des enfants et faire une place à leurs idées dans votre communauté."
+  },
+  "site.video.anthem.title": {
+    "message": "Hymne de l’Internationale des enfants"
   }
 }

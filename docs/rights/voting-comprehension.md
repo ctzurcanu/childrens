@@ -1,7 +1,8 @@
 ---
-title: Understanding the Voting
-Description: Understanding the intent before voting
+title: "Understanding before voting"
+sidebar_label: "Understanding the Voting"
 sidebar_position: 110
+description: "Explore a proposal for children’s voting comprehension checks, with clear questions, independent scoring, opportunities to retry, and appeals."
 ---
 
 # Understanding before voting

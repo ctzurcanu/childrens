@@ -1,7 +1,8 @@
 ---
-title: Voting and being elected
-Description: Voting and becoming an elected leader
+title: "Children’s voting and election rights"
+sidebar_label: "Voting and being elected"
 sidebar_position: 115
+description: "A proposal for children to vote, run for election, and serve as elected leaders after checks of their understanding, with equal participation."
 ---
 
 # Voting and becoming an elected leader

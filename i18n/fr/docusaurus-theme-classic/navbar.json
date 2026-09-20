@@ -14,5 +14,11 @@
   "item.label.Get involved ↗": {
     "message": "Participer ↗",
     "description": "Navbar item with label Get involved ↗"
+  },
+  "item.label.Our ideas": {
+    "message": "Nos idées"
+  },
+  "item.label.Children’s rights": {
+    "message": "Droits des enfants"
   }
 }

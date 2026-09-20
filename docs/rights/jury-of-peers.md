@@ -1,7 +1,8 @@
 ---
-title: A jury of peers
-Description: A fair jury that includes children
+title: "Children’s right to a jury of peers"
+sidebar_label: "A jury of peers"
 sidebar_position: 150
+description: "A proposal for fair juries with equal numbers of children and adults in disputes between them, independent selection, and equal voting power."
 ---
 
 # A fair jury that includes children

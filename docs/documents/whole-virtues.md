@@ -2,6 +2,7 @@
 slug: /whole-virtues
 title: On Virtues (Complete)
 sidebar_position: 50
+description: "Read the complete virtues reference collection, including definitions, relationships, hierarchies, and comparisons across philosophical traditions."
 ---
 
 # On Virtues (Complete)

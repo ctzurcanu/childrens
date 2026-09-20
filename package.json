@@ -8,7 +8,8 @@
     "serve": "docusaurus serve",
     "clear": "docusaurus clear",
     "start:fr": "docusaurus start --locale fr",
-    "write-translations": "docusaurus write-translations"
+    "write-translations": "docusaurus write-translations",
+    "check:seo": "node scripts/check-seo.cjs"
   },
   "dependencies": {
     "@docusaurus/core": "3.10.2",

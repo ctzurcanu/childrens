@@ -2,6 +2,7 @@ import {translate} from '@docusaurus/Translate';
 import React from 'react';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
+import HomeStructuredData from '../components/HomeStructuredData';
 
 
 
@@ -27,18 +28,20 @@ function WorldArt() {
 }
 
 export default function Home() {
+  const description = translate({id: "site.seo.home.description", message: "Explore The Children’s International and its ideas for children’s rights, political participation, privacy, and a world that listens to every child."});
   const priorities = [
   ['01', translate({id: "site.a.voice.that.counts", message: "A voice that counts."}), translate({id: "site.children.deserve.to.be.heard.in.the.decisions.that.shape.their.lives", message: "Children deserve to be heard in the decisions that shape their lives."}), 'voice'],
   ['02', translate({id: "site.room.to.grow", message: "Room to grow."}), translate({id: "site.learning.play.care.and.a.safe.place.to.call.home.should.belong.to.every.child", message: "Learning, play, care, and a safe place to call home should belong to every child."}), 'grow'],
   ['03', translate({id: "site.a.world.to.inherit", message: "A world to inherit."}), translate({id: "site.a.peaceful.livable.planet.is.part.of.a.childhood.and.a.future.worth.protecting", message: "A peaceful, livable planet is part of a childhood—and a future—worth protecting."}), 'world'],
 ];
-  return <Layout title={translate({id: "site.our.lives.our.voices.our.world", message: "Our lives. Our voices. Our world."})} description={translate({id: "site.the.children.s.international.is.a.political.party.that.defends.the.rights.of.children.everywhere", message: "The Children’s International is a political party that defends the rights of children everywhere."})}>
+  return <Layout title={translate({id: "site.seo.home.title", message: "Children’s rights and voices"})} description={description}>
+    <HomeStructuredData description={description}/>
     <main>
       <section className="hero-section page-width">
         <div className="hero-copy"><span className="eyebrow"><span className="status-dot"/> {translate({id: "site.small.voices.big.possibilities", message: "SMALL VOICES. BIG POSSIBILITIES."})}</span>
           <h1>{translate({id: "site.our.lives", message: "Our lives."})}<br/>{translate({id: "site.our.voices", message: "Our voices."})}<br/><span>{translate({id: "site.our.world", message: "Our world."})}</span></h1>
           <p>{translate({id: "site.a.better.world.begins.with.listening.to.children.we.re.a.political.party.standing.up.for.their.rights.everywhere", message: "A better world begins with listening to children. We’re a political party standing up for their rights. Everywhere."})}</p>
-          <div className="hero-actions"><Link className="pill primary" to="/about/">{translate({id: "site.explore.our.ideas", message: "Explore our ideas"})} <span>↗</span></Link><Link className="text-link" to="/about/">{translate({id: "site.ideas.for.children.s.rights", message: "Ideas for children’s rights"})} <span>→</span></Link></div>
+          <div className="hero-actions"><Link className="pill primary" to="/about/">{translate({id: "site.explore.our.ideas", message: "Explore our ideas"})} <span>↗</span></Link><Link className="text-link" to="/about/rights/">{translate({id: "site.ideas.for.children.s.rights", message: "Ideas for children’s rights"})} <span>→</span></Link></div>
         </div>
         <div className="hero-visual"><WorldArt/><span className="art-caption">{translate({id: "site.a.little.imagination.a.world.of.possibility", message: "A little imagination. A world of possibility."})}</span></div>
       </section>
@@ -47,7 +50,7 @@ export default function Home() {
         <div className="video-player">
           <iframe
             src="https://www.youtube-nocookie.com/embed/oOqb7QTSU-w"
-            title={translate({id: 'site.video.title', message: 'Featured YouTube video'})}
+            title={translate({id: 'site.video.anthem.title', message: 'The Children’s International anthem'})}
             loading="lazy"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             referrerPolicy="strict-origin-when-cross-origin"

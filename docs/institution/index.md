@@ -1,7 +1,7 @@
 ---
 title: Institutions
-description: Institutions
 sidebar_position: 200
+description: "Explore The Children’s International’s institutional ideas, expectations of trust, public communication, and links to children’s rights organizations."
 ---
 
 # Institutions

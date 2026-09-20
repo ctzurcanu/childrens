@@ -1,9 +1,9 @@
 ---
 title: Documents
-description: Useful Documents
+description: "Browse the complete reference collections on virtues and ethos that inform the ethical ideas discussed by The Children’s International."
 ---
 
 # Documents
 
-- [About Virtues](whole-ethos.md)
-- [About Ethos](whole-virtues.md)
+- [About Virtues](whole-virtues.md)
+- [About Ethos](whole-ethos.md)

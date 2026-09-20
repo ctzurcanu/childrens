@@ -1,7 +1,7 @@
 ---
 title: Civil Rights
-description: Civil Rights
 sidebar_position: 120
+description: "Read about Claudette Colvin, Iqbal Masih, and Greta Thunberg as young voices for civil rights, freedom from child labour, and climate action."
 ---
 
 ## Civil Rights

@@ -1,7 +1,7 @@
 ---
 title: Other Institutions
-description: Other Institutions
 sidebar_position: 100
+description: "Find organizations working on children’s and youth rights, including international networks, advocacy groups, and public institutions."
 ---
 
 # Other Institutions

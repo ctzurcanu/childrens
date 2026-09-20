@@ -1,7 +1,7 @@
 ---
 title: The French Revolution
-description: The French Revolution Legacy of Children's International
 sidebar_position: 40
+description: "Read about Joseph Agricol Viala and Joseph Bara in the French Revolution section of The Children’s International’s historical inspirations."
 ---
 
 # The French Revolution

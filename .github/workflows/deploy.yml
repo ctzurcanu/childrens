@@ -24,7 +24,10 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
-      - run: npm run build
+      - name: Build and check SEO
+        run: |
+          npm run build
+          npm run check:seo
         env:
           SITE_URL: ${{ vars.SITE_URL }}
           BASE_URL: ${{ vars.BASE_URL }}

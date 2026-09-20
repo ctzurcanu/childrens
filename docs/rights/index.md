@@ -1,7 +1,8 @@
 ---
-title: Rights
-description: Children's Rights
+title: "Children’s rights"
+sidebar_label: "Rights"
 sidebar_position: 100
+description: "Explore proposals for children’s rights, from voting and privacy to property, travel, fair agreements, and a voice in public decisions."
 ---
 
 # Children’s Rights

@@ -1,7 +1,8 @@
 ---
-title: Privacy
-Description: Privacy, a safe box, and a safe space
+title: "Children’s privacy and safe spaces"
+sidebar_label: "Privacy"
 sidebar_position: 180
+description: "Explore proposed privacy rights for children, including private messages, secure storage, personal space, and voluntary places of refuge."
 ---
 
 # Privacy, a safe box, and a safe space

@@ -1,7 +1,8 @@
 ---
-title: Keeping evidence
-Description: Keeping evidence and asking for help
+title: "Children’s right to keep evidence"
+sidebar_label: "Keeping evidence"
 sidebar_position: 120
+description: "Explore a proposed right for children to preserve evidence of harm, report concerns, and seek independent help without punishment for speaking up."
 ---
 
 # Keeping evidence and asking for help

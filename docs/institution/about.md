@@ -1,7 +1,7 @@
 ---
 title: Our Institution
-description: Our Institution
 sidebar_position: 10
+description: "Find The Children’s International’s current status, constitution date, contact information, and location as it develops its theoretical foundations."
 ---
 
 # Our Institution

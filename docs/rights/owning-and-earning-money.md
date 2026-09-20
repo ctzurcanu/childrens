@@ -1,7 +1,8 @@
 ---
-title: Right to property
-Description: Your property belongs to you
+title: "Children’s property and earnings"
+sidebar_label: "Right to property"
 sidebar_position: 140
+description: "A proposal for children to own their earnings, savings, and bank accounts, with independent control and protection from forced or dangerous work."
 ---
 
 # Your property belongs to you

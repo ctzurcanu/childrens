@@ -1,7 +1,7 @@
 ---
 title: Ideals
-description: Ideas and Ideals
 sidebar_position: 9
+description: "Discover the ideals behind The Children’s International, including shared ethical principles, art, culture, and historical sources of inspiration."
 ---
 
 # Ideals worth our Fight

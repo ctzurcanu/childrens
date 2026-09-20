@@ -1,7 +1,8 @@
 ---
-title: Art
-description: Children's International Art
+title: "Art and music"
+sidebar_label: "Art"
 sidebar_position: 20
+description: "Listen to the anthem and music shared by The Children’s International, and explore art and culture as part of its ideals for children’s rights."
 ---
 
 # Children's International Art

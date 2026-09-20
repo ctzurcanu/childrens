@@ -1,7 +1,7 @@
 ---
 title: Christian Legacy
-description: The Christian Legacy of Children's International
 sidebar_position: 10
+description: "Explore Christian texts about welcoming children and accounts of young saints in the historical legacy of The Children’s International."
 ---
 
 ## Christian Legacy

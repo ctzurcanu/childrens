@@ -2,6 +2,7 @@
 title: On Ethos (Complete)
 slug: /whole-ethos
 sidebar_position: 90
+description: "Read the complete ethos reference collection, exploring ethical interactions, principles, relationships, and ways to express and examine an ethos."
 ---
 
 # On Ethos (Complete)

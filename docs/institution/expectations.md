@@ -1,7 +1,7 @@
 ---
 title: Expectations of Trust
-description: Institutional Expectations
 sidebar_position: 50
+description: "Explore a framework for warranted trust in institutions, grounded in independently checkable evidence, transparency, challenge, and correction."
 ---
 
 # Expectations of Trust

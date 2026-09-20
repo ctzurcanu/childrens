@@ -1,7 +1,8 @@
 ---
-title: Independent Ethos
-description: Your own ideas about right and wrong
+title: "Children’s freedom to develop an ethos"
+sidebar_label: "Independent Ethos"
 sidebar_position: 100
+description: "Explore children’s proposed right to develop and rethink their own ideas about right and wrong, question authority, and have their reasoning heard."
 ---
 
 # Your own ideas about right and wrong

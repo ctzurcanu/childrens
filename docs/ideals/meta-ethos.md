@@ -1,7 +1,7 @@
 ---
 title: Meta-Ethos
-description: Children's International Meta-Ethos
 sidebar_position: 10
+description: "Read the shared ethical principles of The Children’s International, including the Golden Rule, openness, consistency, and respect for other ethoses."
 ---
 
 # Children's International Meta-Ethos

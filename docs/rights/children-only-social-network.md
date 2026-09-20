@@ -1,7 +1,8 @@
 ---
-title: Community for children
-Description: An online and offline community for children
+title: "Online communities run by children"
+sidebar_label: "Community for children"
 sidebar_position: 130
+description: "Explore a proposed community run by children, with private conversations, member-chosen rules, appeals, and protection from commercial tracking."
 ---
 
 # An online and offline community for children

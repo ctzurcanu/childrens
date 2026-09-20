@@ -1,7 +1,7 @@
 ---
 title: Duties
-description: Duties
 sidebar_position: 10
+description: "Explore proposed duties for children and institutions: clear communication, shared ethical principles, and consideration for those without a voice."
 ---
 
 # Children's Duties

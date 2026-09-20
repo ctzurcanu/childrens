@@ -1,7 +1,7 @@
 ---
 title: Joan of Arc
-description: Joan of Arc Legacy of Children's International
 sidebar_position: 30
+description: "Explore Joan of Arc as an inspiration for The Children’s International, with a video and links to further reading and a comic for children."
 ---
 
 ## Joan of Arc

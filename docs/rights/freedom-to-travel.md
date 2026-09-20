@@ -1,6 +1,8 @@
 ---
-title: The freedom to travel
+title: "Children’s freedom to travel"
+sidebar_label: "The freedom to travel"
 sidebar_position: 160
+description: "A proposal for children’s freedom to travel independently, with practical support, specific safety protections, and fair reviews of restrictions."
 ---
 
 # The freedom to travel

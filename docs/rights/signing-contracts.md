@@ -1,7 +1,8 @@
 ---
-title: Sign contracts
-Description: Making agreements in your own name
+title: "Children’s right to make contracts"
+sidebar_label: "Sign contracts"
 sidebar_position: 170
+description: "A proposal for children to make agreements in their own name, understand clear terms, enforce promises, and challenge coercion or unfair treatment."
 ---
 
 # Making agreements in your own name
