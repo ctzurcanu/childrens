@@ -30,7 +30,7 @@ const config = {
     theme: { customCss: './src/css/custom.css' },
   }]],
   themeConfig: {
-    image: 'img/logo.png',
+    image: 'img/social-card.png',
     metadata: [{ name: 'robots', content: 'index, follow, max-image-preview:large' }],
     colorMode: { defaultMode: 'light', disableSwitch: true, respectPrefersColorScheme: true },
     navbar: {

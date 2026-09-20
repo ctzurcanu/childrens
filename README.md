@@ -83,3 +83,9 @@ French home, community, and ideas overview pages are translated and indexable. O
 The SiteMetadata customization is based on Docusaurus 3.10.2; review it when upgrading Docusaurus. The plugin currently supports this site's unversioned docs and default locale URL layout.
 
 Metadata describes the existing proposals without presenting them as current law or adopted policy. Search engines choose their own snippets and rankings. See [Google's developer SEO guidance](https://developers.google.com/search/docs/fundamentals/get-started-developers) and [Docusaurus SEO documentation](https://docusaurus.io/docs/seo).
+
+## Editing the social preview card
+
+Edit `static/img/social-card.svg` in a text editor, Inkscape, or another SVG editor. The headline, slogan, colors, layout, and embedded vector logo are editable.
+
+Run `npm run card:export` to regenerate `static/img/social-card.png` (1200 × 600). This command requires `rsvg-convert` from librsvg. Alternatively, export the SVG as a 1200 × 600 PNG using your graphics editor and save it at that path. Then rebuild and deploy the site. X uses the PNG; the SVG is the editable source.
