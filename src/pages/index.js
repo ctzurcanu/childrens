@@ -62,14 +62,14 @@ export default function Home() {
         <div className="priority-grid">{priorities.map(([number,title,copy,kind]) => <Link key={number} className={`priority-card ${kind}`} to="/about/"><div className="card-top"><span>{number} /</span><span aria-hidden="true">↗</span></div><h3>{title}</h3><p>{copy}</p></Link>)}</div>
       </section>
 
-      <section className="invitation page-width"><span className="eyebrow">{translate({id: "site.short", message: "IN A BREATH:"})}</span><h2>{translate({id: "site.short.title", message: "Equality Today"})}</h2><ul>
+      <section className="invitation page-width"><span className="eyebrow">{translate({id: "site.short", message: "IN A BREATH:"})}</span><h2>{translate({id: "site.short.title", message: "Equality Today"})}</h2><p><ol>
         <li>Liberty to create and maintain our own ethos (individually and together)</li>
         <li>Right to Vote and be Elected (since the moment we can read, write, and take a quiz)</li>
         <li>Right to Education: not Duty (education should be voluntary)</li>
         <li>Right to Property and Contract Signing</li>
         <li>Right to Judge and be Judged by a jury of our Peers</li>
-        <li>Liberty to have our own digital space: without adult supervision or interferrence</li>
-        </ul></section>
+        <li>Liberty to have our own digital space: without adult supervision or interferrence (unless by consensual invitation)</li>
+        </ol></p></section>
 
 
       <section className="invitation page-width"><span className="eyebrow">{translate({id: "site.a.future.we.shape.together", message: "A FUTURE WE SHAPE TOGETHER"})}</span><h2>{translate({id: "site.there.s.room.for.your.voice", message: "There’s room for your voice."})}</h2><p>{translate({id: "site.change.starts.with.a.conversation.explore.our.purpose.share.an.idea.and.help.put.children.s.rights.at.the.heart.of.public.life", message: "Change starts with a conversation. Explore our purpose, share an idea, and help put children’s rights at the heart of public life."})}</p><Link className="pill primary" to="/community">{translate({id: "site.find.your.way.to.take.part", message: "Find your way to take part"})} <span>↗</span></Link></section>
