@@ -67,6 +67,7 @@ export default function Home() {
         <li>Right to Vote and be Elected (since the moment we can read, write, and take a quiz)</li>
         <li>Right to Education: not Duty (education should be voluntary)</li>
         <li>Right to Property and Contract Signing</li>
+        <li>Right to Judge and be Judged by a jury of our Peers</li>
         <li>Liberty to have our own digital space: without adult supervision or interferrence</li>
         </ul></section>
 
