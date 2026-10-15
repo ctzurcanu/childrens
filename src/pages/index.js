@@ -65,10 +65,10 @@ export default function Home() {
       <section className="invitation page-width"><span className="eyebrow">{translate({id: "site.short", message: "IN A BREATH:"})}</span><h2>{translate({id: "site.short.title", message: "Equality Today"})}</h2><p><ol>
         <li>Liberty to create and maintain our own ethos (individually and together)</li>
         <li>Right to Vote and be Elected (since the moment we can read, write, and take a quiz)</li>
-        <li>Right to Education: not Duty (education should be voluntary)</li>
+        <li>Right to Education: not a Duty (education should be voluntary)</li>
         <li>Right to Property and Contract Signing</li>
         <li>Right to Judge and be Judged by a jury of our Peers</li>
-        <li>Liberty to have our own digital space: without adult supervision or interferrence (unless by consensual invitation)</li>
+        <li>Liberty to have our own digital space: without adult supervision or interference (unless by consensual invitation)</li>
         </ol></p></section>
 
 
