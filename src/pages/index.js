@@ -68,7 +68,7 @@ export default function Home() {
         <li>Right to Education: not a Duty (education should be voluntary)</li>
         <li>Right to Property and Contract Signing</li>
         <li>Right to Judge and be Judged by a jury of our Peers</li>
-        <li>Guaranteed Autonomy: (eg: freedon to travel alone, to access, collect, and preserve evidence)</li>
+        <li>Guaranteed Autonomy: (eg: freedom to travel alone, to access, collect, and preserve evidence)</li>
         <li>Liberty to have our own digital space: without adult supervision or interference (unless by consensual invitation)</li>
         </ol></p></section>
 
