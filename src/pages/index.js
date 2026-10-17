@@ -70,7 +70,9 @@ export default function Home() {
         <li>Right to Judge and be Judged by a jury of our Peers</li>
         <li>Guaranteed Autonomy: (eg: freedom to travel alone, to access, collect, and preserve evidence)</li>
         <li>Liberty to have our own digital space: without adult supervision or interference (unless by consensual invitation)</li>
-        </ol></p></section>
+        </ol>
+        <a href="about/rights/">in more detail...</a>
+        </p></section>
 
 
       <section className="invitation page-width"><span className="eyebrow">{translate({id: "site.a.future.we.shape.together", message: "A FUTURE WE SHAPE TOGETHER"})}</span><h2>{translate({id: "site.there.s.room.for.your.voice", message: "There’s room for your voice."})}</h2><p>{translate({id: "site.change.starts.with.a.conversation.explore.our.purpose.share.an.idea.and.help.put.children.s.rights.at.the.heart.of.public.life", message: "Change starts with a conversation. Explore our purpose, share an idea, and help put children’s rights at the heart of public life."})}</p><Link className="pill primary" to="/community">{translate({id: "site.find.your.way.to.take.part", message: "Find your way to take part"})} <span>↗</span></Link></section>
