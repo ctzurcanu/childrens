@@ -21,6 +21,7 @@ description: "Explore how individual rights and duties connect with community re
   - Identity Management Services
   - Homeless Shelters
 2. Autonomy:
+  - Language, Writing System
   - Rule of Law
   - Public Roads, Rules of the Way
   - Public Transport
@@ -32,6 +33,7 @@ description: "Explore how individual rights and duties connect with community re
   - Police
   - Public Signs
   - Organized Labour: Enterprises, Syndicates
+  - Internet Services
   - Other Institutions
   - Political Representation
 3. Justice
