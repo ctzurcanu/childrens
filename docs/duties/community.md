@@ -2,7 +2,7 @@
 title: "Individual and Community"
 sidebar_label: "Community"
 sidebar_position: 15
-description: "The link between rights, duties, and community."
+description: "Explore how individual rights and duties connect with community responsibilities, from public services and belonging to justice and voting."
 ---
 
 # Individual and Community
