@@ -2,15 +2,15 @@
 title: "Individual and Community"
 sidebar_label: "Community"
 sidebar_position: 15
-description: "The link between rights, duties and community."
+description: "The link between rights, duties, and community."
 ---
 
 # Individual and Community
 
 1. The individual rights are the result of the duties of the community.
-2. The individual duties are the results of the rights of the community.
-3. The rights of the community are the results of the individual duties.
-4. The duties of the community are the results of the individual rights.
+2. The individual duties are the result of the rights of the community.
+3. The rights of the community are the result of the individual duties.
+4. The duties of the community are the result of the individual rights.
 
 ## Mappings
 
@@ -22,7 +22,7 @@ description: "The link between rights, duties and community."
   - Homeless Shelters
 2. Autonomy:
   - Rule of Law
-  - Public Roads, Rules of the way
+  - Public Roads, Rules of the Way
   - Public Transport
   - Public Parks
   - Public Education
@@ -31,7 +31,7 @@ description: "The link between rights, duties and community."
   - Charities
   - Police
   - Public Signs
-  - Organized Labour: Enterprizes, Syndicates
+  - Organized Labour: Enterprises, Syndicates
   - Other Institutions
   - Political Representation
 3. Justice
