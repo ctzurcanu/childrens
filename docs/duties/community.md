@@ -7,8 +7,8 @@ description: "Explore how individual rights and duties connect with community re
 
 # Individual and Community
 
-1. The individual rights are the result of the duties of the community.
-2. The individual duties are the result of the rights of the community.
+1. (Most of) The individual's rights are the result of the duties of the community.
+2. The individual's duties are the result of the rights of the community.
 3. The rights of the community are the result of the individual duties.
 4. The duties of the community are the result of the individual rights.
 
