@@ -1,0 +1,54 @@
+---
+title: "Individual and Community"
+sidebar_label: "Community"
+sidebar_position: 15
+description: "The link between rights, duties and community."
+---
+
+# Individual and Community
+
+1. The individual rights are the result of the duties of the community.
+2. The individual duties are the results of the rights of the community.
+3. The rights of the community are the results of the individual duties.
+4. The duties of the community are the results of the individual rights.
+
+## Mappings
+
+### Individual Rights -> Community Duties
+
+1. Existence: 
+  - Medical Emergency Services
+  - Identity Management Services
+  - Homeless Shelters
+2. Autonomy:
+  - Rule of Law
+  - Public Roads, Rules of the way
+  - Public Transport
+  - Public Parks
+  - Public Education
+  - Markets
+  - Currency guarantee
+  - Charities
+  - Police
+  - Public Signs
+  - Organized Labour: Enterprizes, Syndicates
+  - Other Institutions
+  - Political Representation
+3. Justice
+  - Access to Justice
+  - Voting
+  - Tax collection
+  - Budget management
+
+
+### Individual Duties -> Community Rights
+
+1. To Belong in a Community and not in another
+  - Existence
+  - Identity
+2. To offer services to a Community
+  - Autonomy
+3. To accept evidence/mediation and to mediate. To vote.
+  - Justice
+
+[Back](index.md)

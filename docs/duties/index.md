@@ -290,6 +290,10 @@ All duties in this framework derive from the same three primary principles as ri
 
 -----
 
+[Community and individual](community.md) interdependency of rights and duties.
+
+-----
+
 # Children's Duties
 
 We should always start with our duties first, before asking for existence, autonomy, justice, or other rights.
