@@ -53,4 +53,15 @@ description: "Explore how individual rights and duties connect with community re
 3. To accept evidence/mediation and to mediate. To vote.
   - Justice
 
+## Civilization
+
+Civilization is the set of rights afforded by a Community that are exercised.
+
+State: the set of roles of individuals that implement the duties that the other members of a Community do not act while exercising the corresponding rights.
+
+Civilizations can be implemented without a State if the rights and duties are justfully distributed/decentralized.
+
+The Ethos of the Community is the sum of rights and duties that are implemented and balanced by said Community.
+
 [Back](index.md)
+
